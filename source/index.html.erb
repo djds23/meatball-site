@@ -1,0 +1,19 @@
+---
+title: 🔗 for Meatball Diaries
+---
+
+<div id="main">
+  <% data.recipes.posts.each do |recipieAndLink| %>
+    <div class="post">
+      <a href="<%= recipieAndLink[1] %>">
+        <img src="<%= recipieAndLink[0] %>">
+      </a>
+    </div>
+  <% end %>
+</div>
+
+<%= link_to(
+  "Read Documentation",
+  "https://middlemanapp.com/basics/templating_language/",
+  target: "_blank"
+) %>
