@@ -3,13 +3,13 @@ title: 🔗 for Meatball Diaries
 ---
 
 <div id="main">
-  <p class="sub-header">🔗 for Meatball Diaries</p>
+  <p class="sub-header">Tap the photo for recipies.</p>
   <div id="postFlex">
     <% data.recipes.posts.each do |recipieAndLink| %>
       <div class="post">
         <div class="innerBox">
           <a href="<%= recipieAndLink[1] %>">
-            <img async src="<%= recipieAndLink[0] %>">
+            <img class="contained" decoding="async" loading="lazy" src="<%= recipieAndLink[0] %>">
           </a>
         </div>
       </div>
