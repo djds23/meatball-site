@@ -3,13 +3,18 @@ title: 🔗 for Meatball Diaries
 ---
 
 <div id="main">
-  <% data.recipes.posts.each do |recipieAndLink| %>
-    <div class="post">
-      <a href="<%= recipieAndLink[1] %>">
-        <img src="<%= recipieAndLink[0] %>">
-      </a>
-    </div>
-  <% end %>
+  <p class="sub-header">🔗 for Meatball Diaries</p>
+  <div id="postFlex">
+    <% data.recipes.posts.each do |recipieAndLink| %>
+      <div class="post">
+        <div class="innerBox">
+          <a href="<%= recipieAndLink[1] %>">
+            <img async src="<%= recipieAndLink[0] %>">
+          </a>
+        </div>
+      </div>
+    <% end %>
+  </div>
 </div>
 
 <%= link_to(
