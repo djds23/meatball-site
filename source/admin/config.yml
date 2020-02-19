@@ -11,7 +11,7 @@ collections:
       - label: "Links to Recipes"
         name: "links"
         extension: "yml"
-        file: "/data/links.yml"
+        file: "source/data/links.yml"
         fields:
           - label: "Recipes"
             name: "recipes"
