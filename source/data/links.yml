@@ -16,7 +16,7 @@ recipes:
     link: >-
       https://www.bonappetit.com/recipe/warm-winter-vegetable-salad-with-halloumi
   - image: images/cheesecake.jpg
-    link: 'https://google.com'
+    link: 'https://cooking.nytimes.com/recipes/1020711-citrusy-cheesecake'
   - image: images/kale-pesto.jpg
     link: 'https://google.com'
   - image: images/chicken-french.jpg
