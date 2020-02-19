@@ -17,7 +17,7 @@ collections:
             name: "recipes"
             widget: "list"
             allow_add: true
-            collapsed: true
+            collapsed: false
             fields:
               - {label: Link, name: link, widget: string}
               - {label: Image, name: image, widget: image}
