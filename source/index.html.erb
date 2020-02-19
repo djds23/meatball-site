@@ -3,8 +3,9 @@ title: 🔗 for Meatball Diaries
 ---
 
 <div id="main">
-  <p class="sub-header">Tap the photo for recipies.</p>
-  <div id="postFlex">
+  <% if !data.links.recipes.nil? %>
+    <p class="sub-header">Tap the photo for recipies.</p>
+    <div id="postFlex">
     <% data.links.recipes.each do |recipieAndLink| %>
       <div class="post">
         <div class="innerBox">
@@ -14,7 +15,10 @@ title: 🔗 for Meatball Diaries
         </div>
       </div>
     <% end %>
-  </div>
+    </div>
+  <% else %>
+    <p>Come back for delicious recipes!</p>
+  <% end %>
 </div>
 
 <%= mail_to(
