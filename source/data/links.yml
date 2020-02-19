@@ -87,7 +87,5 @@ recipes:
     link: 'https://google.com'
   - image: images/strawberry-granola-crisp.jpg
     link: 'https://google.com'
-  - image: images/brie.jpg
-    link: 'https://google.com'
   - image: images/mint-meatballs.jpg
     link: 'https://google.com'
