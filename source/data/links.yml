@@ -1,0 +1,139 @@
+recipes:
+   -
+     image: images/pork-noodles.jpg
+     link: https://google.com
+   -
+     image: images/french-onion-soup.jpg
+     link: https://google.com
+   -
+     image: images/citrus-chicken.jpg
+     link: https://google.com
+   -
+     image: images/skillet-goodness.jpg
+     link: https://google.com
+   -
+     image: images/charred-squash-and-shallot-goodness.jpg
+     link: https://google.com
+   -
+     image: images/cheesecake.jpg
+     link: https://google.com
+   -
+     image: images/kale-pesto.jpg
+     link: https://google.com
+   -
+     image: images/chicken-french.jpg
+     link: https://google.com
+   -
+     image: images/new-years-drink.jpg
+     link: https://google.com
+   -
+     image: images/mint-cookie.jpg
+     link: https://google.com
+   -
+     image: images/rib-roast.jpg
+     link: https://google.com
+   -
+     image: images/roasted-shrimp-cocktail-louis.jpg
+     link: https://google.com
+   -
+     image: images/chicken-with-dumplings.jpg
+     link: https://google.com
+   -
+     image: images/delicious-pie.jpg
+     link: https://google.com
+   -
+     image: images/faro-salad.jpg
+     link: https://google.com
+   -
+     image: images/chicken-with-orzo.jpg
+     link: https://google.com
+   -
+     image: images/hermit-bars.jpg
+     link: https://google.com
+   -
+     image: images/jets-pizza.jpg
+     link: https://google.com
+   -
+     image: images/chicken-with-polenta.jpg
+     link: https://google.com
+   -
+     image: images/breakfast-taco.jpg
+     link: https://google.com
+   -
+     image: images/chicken-sandwhich.jpg
+     link: https://google.com
+   -
+     image: images/pasta-with-olives.jpg
+     link: https://google.com
+   -
+     image: images/meatballs.jpg
+     link: https://google.com
+   -
+     image: images/roast-lemon-chicken.jpg
+     link: https://google.com
+   -
+     image: images/onion-and-squash-tart.jpg
+     link: https://google.com
+   -
+     image: images/chicken-parm.jpg
+     link: https://google.com
+   -
+     image: images/roasted-potatos.jpg
+     link: https://google.com
+   -
+     image: images/cupcakes.jpg
+     link: https://google.com
+   -
+     image: images/brocolli-salad.jpg
+     link: https://google.com
+   -
+     image: images/chicken-with-grapes.jpg
+     link: https://google.com
+   -
+     image: images/goat-cheese-and-grapes.jpg
+     link: https://google.com
+   -
+     image: images/tomato-pie.jpg
+     link: https://google.com
+   -
+     image: images/bourbon-sour.jpg
+     link: https://google.com
+   -
+     image: images/chicken-with-limes.jpg
+     link: https://google.com
+   -
+     image: images/blueberry-gallet.jpg
+     link: https://google.com
+   -
+     image: images/delmonico-steaks.jpg
+     link: https://google.com
+   -
+     image: images/fish-tacos.jpg
+     link: https://google.com
+   -
+     image: images/blueberry-cornmeal-shortbread-tart.jpg
+     link: https://google.com
+   -
+     image: images/cucumber-peach-salad.jpg
+     link: https://google.com
+   -
+     image: images/tomato-tart.jpg
+     link: https://google.com
+   -
+     image: images/rubharb.jpg
+     link: https://google.com
+   -
+     image: images/no-cook-punttanesca.jpg
+     link: https://google.com
+   -
+     image: images/summer-sandwich.jpg
+     link: https://google.com
+   -
+     image: images/strawberry-granola-crisp.jpg
+     link: https://google.com
+   -
+     image: images/brie.jpg
+     link: https://google.com
+   -
+     image: images/mint-meatballs.jpg
+     link: https://google.com 
