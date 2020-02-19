@@ -65,7 +65,7 @@ recipes:
   - image: images/roasted-potatos.jpg
     link: 'https://www.bonappetit.com/recipe/perfectly-roasted-potatoes'
   - image: images/cupcakes.jpg
-    link: 'https://google.com'
+    link: 'https://barefootcontessa.com/recipes/coconut-cupcakes'
   - image: images/brocolli-salad.jpg
     link: 'https://google.com'
   - image: images/chicken-with-grapes.jpg
