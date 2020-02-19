@@ -10,9 +10,13 @@ collections:
     files:
       - label: "Links to Recipes"
         name: "links"
-        file: "site/data/links.yml"
-        allow_add: true
-        widget: "list"
-        fields:
-          - {label: Link, name: link, widget: string}
-          - {label: Image, name: image, widget: image}
+        extension: "yml"
+        file: "source/data/links.yml"
+        field:
+          label: "Recipes"
+          name: "recipes"
+          widget: "list"
+          allow_add: true
+          fields:
+            - {label: Link, name: link, widget: string}
+            - {label: Image, name: image, widget: image}
