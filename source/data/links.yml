@@ -59,7 +59,7 @@ recipes:
   - image: images/roast-lemon-chicken.jpg
     link: 'https://www.alisoneroman.com/nothing-fancy'
   - image: images/onion-and-squash-tart.jpg
-    link: 'https://google.com'
+    link: 'https://www.bonappetit.com/recipe/squash-and-caramelized-onion-tart'
   - image: images/chicken-parm.jpg
     link: 'https://google.com'
   - image: images/roasted-potatos.jpg
