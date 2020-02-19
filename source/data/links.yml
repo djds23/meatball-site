@@ -40,8 +40,6 @@ recipes:
     link: 'https://www.bonappetit.com/recipe/one-skillet-chicken-with-buttery-orzo'
   - image: images/hermit-bars.jpg
     link: 'https://barefootcontessa.com/recipes/spicy-hermit-bars'
-  - image: images/jets-pizza.jpg
-    link: 'https://google.com'
   - image: images/chicken-with-polenta.jpg
     link: >-
       https://cooking.nytimes.com/recipes/1019404-chicken-braised-in-two-vinegars?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
@@ -75,14 +73,10 @@ recipes:
     link: 'https://www.bonappetit.com/recipe/spicy-grape-ricotta-crostini'
   - image: images/tomato-pie.jpg
     link: 'https://www.saveur.com/southern-tomato-pie-recipe/'
-  - image: images/bourbon-sour.jpg
-    link: 'https://google.com'
   - image: images/chicken-with-limes.jpg
     link: 'https://www.bonappetit.com/recipe/slow-roast-gochujang-chicken'
   - image: images/blueberry-gallet.jpg
     link: 'https://www.bonappetit.com/recipe/blueberry-pecan-galette'
-  - image: images/delmonico-steaks.jpg
-    link: 'https://google.com'
   - image: images/fish-tacos.jpg
     link: >-
       https://cooking.nytimes.com/recipes/1012445-fish-tacos?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
@@ -93,8 +87,6 @@ recipes:
     link: 'https://www.bonappetit.com/recipe/cucumber-and-peach-salad-with-herbs'
   - image: images/tomato-tart.jpg
     link: 'https://barefootcontessa.com/recipes/annas-tomato-tart'
-  - image: images/rubharb.jpg
-    link: 'https://google.com'
   - image: images/no-cook-punttanesca.jpg
     link: 'https://www.bonappetit.com/recipe/spaghetti-with-no-cook-puttanesca'
   - image: images/summer-sandwich.jpg
