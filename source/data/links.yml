@@ -84,7 +84,8 @@ recipes:
   - image: images/delmonico-steaks.jpg
     link: 'https://google.com'
   - image: images/fish-tacos.jpg
-    link: 'https://google.com'
+    link: >-
+      https://cooking.nytimes.com/recipes/1012445-fish-tacos?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
   - image: images/blueberry-cornmeal-shortbread-tart.jpg
     link: 'https://google.com'
   - image: images/cucumber-peach-salad.jpg
