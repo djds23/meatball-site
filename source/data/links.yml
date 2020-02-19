@@ -96,7 +96,7 @@ recipes:
   - image: images/rubharb.jpg
     link: 'https://google.com'
   - image: images/no-cook-punttanesca.jpg
-    link: 'https://google.com'
+    link: 'https://www.bonappetit.com/recipe/spaghetti-with-no-cook-puttanesca'
   - image: images/summer-sandwich.jpg
     link: 'https://google.com'
   - image: images/strawberry-granola-crisp.jpg
