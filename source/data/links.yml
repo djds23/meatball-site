@@ -48,7 +48,8 @@ recipes:
   - image: images/breakfast-taco.jpg
     link: 'https://www.bonappetit.com/recipe/fried-egg-tacos-with-chile-jam'
   - image: images/chicken-sandwhich.jpg
-    link: 'https://google.com'
+    link: >-
+      https://www.bonappetit.com/recipe/grilled-chicken-sandwich-with-mustard-mayo
   - image: images/pasta-with-olives.jpg
     link: 'https://google.com'
   - image: images/meatballs.jpg
