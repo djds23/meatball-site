@@ -51,7 +51,8 @@ recipes:
     link: >-
       https://www.bonappetit.com/recipe/grilled-chicken-sandwich-with-mustard-mayo
   - image: images/pasta-with-olives.jpg
-    link: 'https://google.com'
+    link: >-
+      https://www.bonappetit.com/recipe/linguine-green-olive-sauce-zesty-breadcrumbs
   - image: images/meatballs.jpg
     link: 'https://google.com'
   - image: images/roast-lemon-chicken.jpg
