@@ -13,7 +13,8 @@ recipes:
     link: >-
       https://cooking.nytimes.com/recipes/1018360-sauteed-brussels-sprouts-with-sausage-and-pickled-red-onion?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=2
   - image: images/charred-squash-and-shallot-goodness.jpg
-    link: 'https://google.com'
+    link: >-
+      https://www.bonappetit.com/recipe/warm-winter-vegetable-salad-with-halloumi
   - image: images/cheesecake.jpg
     link: 'https://google.com'
   - image: images/kale-pesto.jpg
