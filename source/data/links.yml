@@ -20,7 +20,7 @@ recipes:
   - image: images/kale-pesto.jpg
     link: 'https://www.bonappetit.com/recipe/kale-pesto-with-whole-wheat-pasta'
   - image: images/chicken-french.jpg
-    link: 'https://google.com'
+    link: 'https://cooking.nytimes.com/recipes/1019577-chicken-francese'
   - image: images/new-years-drink.jpg
     link: 'https://google.com'
   - image: images/mint-cookie.jpg
