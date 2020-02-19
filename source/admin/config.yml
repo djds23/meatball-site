@@ -3,3 +3,14 @@ backend:
 
 media_folder: source/images/uploads
 public_folder: /images/uploads
+
+collections:
+  - label: "Links"
+    name: "links"
+    files:
+      - label: "Links to Recipes"
+        name: "links"
+        file: "site/data/links.yml"
+        fields:
+          - {label: Link, name: link, widget: string}
+          - {label: Image, name: image, widget: image}
