@@ -32,7 +32,7 @@ recipes:
   - image: images/chicken-with-dumplings.jpg
     link: 'https://cooking.nytimes.com/recipes/1019108-chicken-and-dumplings'
   - image: images/delicious-pie.jpg
-    link: 'https://google.com'
+    link: 'https://www.midwestliving.com/recipe/cranberry-crumble-pie/'
   - image: images/faro-salad.jpg
     link: 'https://google.com'
   - image: images/chicken-with-orzo.jpg
