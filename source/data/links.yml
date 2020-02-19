@@ -24,7 +24,7 @@ recipes:
   - image: images/new-years-drink.jpg
     link: 'https://www.bonappetit.com/story/french-75'
   - image: images/mint-cookie.jpg
-    link: 'https://google.com'
+    link: 'https://www.bonappetit.com/recipe/black-and-white-and-green-cookies'
   - image: images/rib-roast.jpg
     link: 'https://google.com'
   - image: images/roasted-shrimp-cocktail-louis.jpg
