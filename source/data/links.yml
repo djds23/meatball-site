@@ -26,7 +26,7 @@ recipes:
   - image: images/mint-cookie.jpg
     link: 'https://www.bonappetit.com/recipe/black-and-white-and-green-cookies'
   - image: images/rib-roast.jpg
-    link: 'https://google.com'
+    link: 'https://www.bonappetit.com/gallery/alison-roman-steakhouse-night-at-home'
   - image: images/roasted-shrimp-cocktail-louis.jpg
     link: 'https://google.com'
   - image: images/chicken-with-dumplings.jpg
