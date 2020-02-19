@@ -22,7 +22,7 @@ recipes:
   - image: images/chicken-french.jpg
     link: 'https://cooking.nytimes.com/recipes/1019577-chicken-francese'
   - image: images/new-years-drink.jpg
-    link: 'https://google.com'
+    link: 'https://www.bonappetit.com/story/french-75'
   - image: images/mint-cookie.jpg
     link: 'https://google.com'
   - image: images/rib-roast.jpg
