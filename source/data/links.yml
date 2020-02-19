@@ -90,7 +90,7 @@ recipes:
     link: >-
       https://cooking.nytimes.com/recipes/1020390-blueberry-cornmeal-shortbread-tart
   - image: images/cucumber-peach-salad.jpg
-    link: 'https://google.com'
+    link: 'https://www.bonappetit.com/recipe/cucumber-and-peach-salad-with-herbs'
   - image: images/tomato-tart.jpg
     link: 'https://google.com'
   - image: images/rubharb.jpg
