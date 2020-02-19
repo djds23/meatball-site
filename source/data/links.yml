@@ -74,7 +74,7 @@ recipes:
   - image: images/goat-cheese-and-grapes.jpg
     link: 'https://www.bonappetit.com/recipe/spicy-grape-ricotta-crostini'
   - image: images/tomato-pie.jpg
-    link: 'https://google.com'
+    link: 'https://www.saveur.com/southern-tomato-pie-recipe/'
   - image: images/bourbon-sour.jpg
     link: 'https://google.com'
   - image: images/chicken-with-limes.jpg
