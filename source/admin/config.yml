@@ -11,6 +11,7 @@ collections:
       - label: "Links to Recipes"
         name: "links"
         file: "site/data/links.yml"
+        create: true
         fields:
           - {label: Link, name: link, widget: string}
           - {label: Image, name: image, widget: image}
