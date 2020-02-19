@@ -39,7 +39,7 @@ recipes:
   - image: images/chicken-with-orzo.jpg
     link: 'https://www.bonappetit.com/recipe/one-skillet-chicken-with-buttery-orzo'
   - image: images/hermit-bars.jpg
-    link: 'https://google.com'
+    link: 'https://barefootcontessa.com/recipes/spicy-hermit-bars'
   - image: images/jets-pizza.jpg
     link: 'https://google.com'
   - image: images/chicken-with-polenta.jpg
