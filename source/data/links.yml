@@ -46,7 +46,7 @@ recipes:
     link: >-
       https://cooking.nytimes.com/recipes/1019404-chicken-braised-in-two-vinegars?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
   - image: images/breakfast-taco.jpg
-    link: 'https://google.com'
+    link: 'https://www.bonappetit.com/recipe/fried-egg-tacos-with-chile-jam'
   - image: images/chicken-sandwhich.jpg
     link: 'https://google.com'
   - image: images/pasta-with-olives.jpg
