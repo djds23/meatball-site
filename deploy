@@ -1,2 +1,1 @@
-bundle exec ruby build-data.rb
 bundle exec middleman build --verbose
