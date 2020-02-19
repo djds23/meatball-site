@@ -7,7 +7,8 @@ recipes:
   - image: images/french-onion-soup.jpg
     link: 'https://smittenkitchen.com/2019/03/essential-french-onion-soup/'
   - image: images/citrus-chicken.jpg
-    link: 'https://google.com'
+    link: >-
+      https://www.bonappetit.com/recipe/charred-chicken-with-sweet-potatoes-and-oranges
   - image: images/skillet-goodness.jpg
     link: >-
       https://www.bonappetit.com/recipe/charred-chicken-with-sweet-potatoes-and-oranges
