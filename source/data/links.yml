@@ -34,7 +34,8 @@ recipes:
   - image: images/delicious-pie.jpg
     link: 'https://www.midwestliving.com/recipe/cranberry-crumble-pie/'
   - image: images/faro-salad.jpg
-    link: 'https://google.com'
+    link: >-
+      https://www.foodnetwork.com/recipes/ina-garten/charlie-birds-farro-salad-6589464
   - image: images/chicken-with-orzo.jpg
     link: 'https://google.com'
   - image: images/hermit-bars.jpg
