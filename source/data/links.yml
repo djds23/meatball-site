@@ -80,7 +80,7 @@ recipes:
   - image: images/chicken-with-limes.jpg
     link: 'https://www.bonappetit.com/recipe/slow-roast-gochujang-chicken'
   - image: images/blueberry-gallet.jpg
-    link: 'https://google.com'
+    link: 'https://www.bonappetit.com/recipe/blueberry-pecan-galette'
   - image: images/delmonico-steaks.jpg
     link: 'https://google.com'
   - image: images/fish-tacos.jpg
