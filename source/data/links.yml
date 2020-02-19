@@ -9,7 +9,8 @@ recipes:
   - image: images/citrus-chicken.jpg
     link: 'https://google.com'
   - image: images/skillet-goodness.jpg
-    link: 'https://google.com'
+    link: >-
+      https://www.bonappetit.com/recipe/charred-chicken-with-sweet-potatoes-and-oranges
   - image: images/charred-squash-and-shallot-goodness.jpg
     link: 'https://google.com'
   - image: images/cheesecake.jpg
