@@ -30,7 +30,7 @@ recipes:
   - image: images/roasted-shrimp-cocktail-louis.jpg
     link: 'https://barefootcontessa.com/recipes/roasted-shrimp-cocktail-louis'
   - image: images/chicken-with-dumplings.jpg
-    link: 'https://google.com'
+    link: 'https://cooking.nytimes.com/recipes/1019108-chicken-and-dumplings'
   - image: images/delicious-pie.jpg
     link: 'https://google.com'
   - image: images/faro-salad.jpg
