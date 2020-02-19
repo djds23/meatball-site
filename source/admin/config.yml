@@ -9,7 +9,7 @@ collections:
     name: "links"
     files:
       - label: "Links to Recipes"
-        name: "recipes"
+        name: "links"
         file: "site/data/links.yml"
         allow_add: true
         widget: "list"
