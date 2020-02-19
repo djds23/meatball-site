@@ -37,7 +37,7 @@ recipes:
     link: >-
       https://www.foodnetwork.com/recipes/ina-garten/charlie-birds-farro-salad-6589464
   - image: images/chicken-with-orzo.jpg
-    link: 'https://google.com'
+    link: 'https://www.bonappetit.com/recipe/one-skillet-chicken-with-buttery-orzo'
   - image: images/hermit-bars.jpg
     link: 'https://google.com'
   - image: images/jets-pizza.jpg
