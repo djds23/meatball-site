@@ -8,11 +8,9 @@ title: 🔗 for Meatball Diaries
     <div id="flex-container">
     <% data.links.recipes.each do |recipieAndLink| %>
       <div class="post">
-        <div class="innerBox">
-          <a href="<%= recipieAndLink.link %>">
-            <img class="post-image" decoding="async" loading="lazy" src="<%= recipieAndLink.image %>">
-          </a>
-        </div>
+        <a href="<%= recipieAndLink.link %>">
+          <img class="post-image" decoding="async" loading="lazy" src="<%= recipieAndLink.image %>">
+        </a>
       </div>
     <% end %>
     </div>
