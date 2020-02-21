@@ -24,4 +24,6 @@ collections:
           - label: Title
             name: title
             widget: string
-          - label: Avatar, name: avatar, widget: image
+          - label: Avatar
+            name: avatar
+            widget: image
