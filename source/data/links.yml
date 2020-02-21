@@ -1,3 +1,5 @@
+avatar: /images/uploads/avatar.jpg
+title: "Tap the photo for recipes."
 recipes:
   - image: /images/uploads/valentines-chocolate-tart.jpg
     link: 'https://www.bonappetit.com/recipe/salted-caramel-chocolate-tart'

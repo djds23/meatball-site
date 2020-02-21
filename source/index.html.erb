@@ -4,7 +4,7 @@ title: 🔗 for Meatball Diaries
 
 <div id="main">
   <% if !data.links.recipes.nil? %>
-    <p class="sub-header">Tap the photo for recipies.</p>
+    <p class="sub-header"><%= data.links.title %></p>
     <div id="flex-container">
     <% data.links.recipes.each do |recipieAndLink| %>
       <div class="post">

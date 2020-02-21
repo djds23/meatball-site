@@ -21,3 +21,7 @@ collections:
             fields:
               - {label: Link, name: link, widget: string}
               - {label: Image, name: image, widget: image}
+          - label: Title
+            name: title
+            widget: string
+          - label: Avatar, name: avatar, widget: image
