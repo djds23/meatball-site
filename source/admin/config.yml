@@ -8,11 +8,17 @@ collections:
   - label: "Links"
     name: "links"
     files:
-      - label: "Links to Recipes"
+      - label: "Avatar, Title and Links"
         name: "links"
         extension: "yml"
         file: "source/data/links.yml"
         fields:
+          - label: Avatar
+            name: avatar
+            widget: image
+          - label: Title
+            name: title
+            widget: string
           - label: "Recipes"
             name: "recipes"
             widget: "list"
@@ -21,9 +27,3 @@ collections:
             fields:
               - {label: Link, name: link, widget: string}
               - {label: Image, name: image, widget: image}
-          - label: Title
-            name: title
-            widget: string
-          - label: Avatar
-            name: avatar
-            widget: image
