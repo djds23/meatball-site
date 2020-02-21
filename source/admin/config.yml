@@ -10,6 +10,7 @@ collections:
     files:
       - label: "Avatar, Title and Links"
         name: "links"
+        preview: false
         extension: "yml"
         file: "source/data/links.yml"
         fields:
