@@ -38,7 +38,7 @@ recipes:
   - image: images/uploads/faro-salad.jpg
     link: >-
       https://www.foodnetwork.com/recipes/ina-garten/charlie-birds-farro-salad-6589464
-  - image: images/chicken-with-orzo.jpg
+  - image: images/uploads/chicken-with-orzo.jpg
     link: 'https://www.bonappetit.com/recipe/one-skillet-chicken-with-buttery-orzo'
   - image: images/uploads/hermit-bars.jpg
     link: 'https://barefootcontessa.com/recipes/spicy-hermit-bars'
@@ -47,7 +47,7 @@ recipes:
       https://cooking.nytimes.com/recipes/1019404-chicken-braised-in-two-vinegars?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
   - image: images/uploads/breakfast-taco.jpg
     link: 'https://www.bonappetit.com/recipe/fried-egg-tacos-with-chile-jam'
-  - image: images/chicken-sandwhich.jpg
+  - image: images/uploads/chicken-sandwhich.jpg
     link: >-
       https://www.bonappetit.com/recipe/grilled-chicken-sandwich-with-mustard-mayo
   - image: images/uploads/pasta-with-olives.jpg
