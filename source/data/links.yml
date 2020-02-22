@@ -1,6 +1,9 @@
 avatar: /images/uploads/avatar.jpg
-title: "Tap the photo for recipes."
+title: Tap the photo for recipes.
 recipes:
+  - image: /images/uploads/egg-chicken-salad.jpg
+    link: >-
+      https://www.foodnetwork.com/recipes/ina-garten/chicken-and-spinach-waldorf-salad-3742077
   - image: /images/uploads/valentines-chocolate-tart.jpg
     link: 'https://www.bonappetit.com/recipe/salted-caramel-chocolate-tart'
   - image: images/uploads/pork-noodles.jpg
