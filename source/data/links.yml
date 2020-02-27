@@ -1,6 +1,9 @@
 avatar: /images/uploads/avatar.jpg
 title: Tap the photo for recipes.
 recipes:
+  - image: /images/uploads/img_0119.jpg
+    link: >-
+      https://www.bonappetit.com/recipe/winter-squash-carbonara-with-pancetta-and-sage
   - image: /images/uploads/egg-chicken-salad.jpg
     link: >-
       https://www.foodnetwork.com/recipes/ina-garten/chicken-and-spinach-waldorf-salad-3742077
