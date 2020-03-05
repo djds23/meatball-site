@@ -1,6 +1,8 @@
 avatar: /images/uploads/avatar.jpg
 title: Tap the photo for recipes.
 recipes:
+  - link: 'https://smittenkitchen.com/2013/10/miso-sweet-potato-and-broccoli-bowl/'
+    image: /images/uploads/brocolli-sweetpotato.jpg
   - image: /images/uploads/squash-parm-pasta.jpg
     link: >-
       https://www.bonappetit.com/recipe/winter-squash-carbonara-with-pancetta-and-sage
