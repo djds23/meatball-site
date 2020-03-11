@@ -1,6 +1,8 @@
 avatar: /images/uploads/avatar.jpg
 title: Tap the photo for recipes.
 recipes:
+  - image: /images/uploads/miso-chicken.png
+    link: 'https://cooking.nytimes.com/recipes/1017699-miso-chicken'
   - link: 'https://smittenkitchen.com/2013/10/miso-sweet-potato-and-broccoli-bowl/'
     image: /images/uploads/brocolli-sweetpotato.jpg
   - image: /images/uploads/squash-parm-pasta.jpg
