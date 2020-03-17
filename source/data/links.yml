@@ -1,6 +1,8 @@
 avatar: /images/uploads/avatar.jpg
 title: Tap the photo for recipes.
 recipes:
+  - link: 'https://www.bonappetit.com/recipe/bas-best-english-muffins'
+    image: /images/uploads/english-muffins.jpg
   - image: /images/uploads/miso-chicken.png
     link: 'https://cooking.nytimes.com/recipes/1017699-miso-chicken'
   - link: 'https://smittenkitchen.com/2013/10/miso-sweet-potato-and-broccoli-bowl/'
