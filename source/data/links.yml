@@ -111,3 +111,5 @@ recipes:
     image: /images/uploads/english-muffins.jpg
   - image: /images/uploads/ramen-pesto.jpg
     link: 'https://www.bonappetit.com/recipe/miso-pesto-with-ramen-noodles'
+  - image: /images/uploads/img_2595.jpg
+    link: 'https://www.bonappetit.com/recipe/easy-no-knead-focaccia'
