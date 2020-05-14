@@ -109,3 +109,5 @@ recipes:
     image: /images/uploads/img_0263.jpg
   - link: https://www.bonappetit.com/recipe/pork-wontons-with-sesame-sauce
     image: /images/uploads/img_3905.jpg
+  - image: /images/uploads/img_4050.jpg
+    link: https://www.bonappetit.com/recipe/upside-down-caramelized-leek-tart
