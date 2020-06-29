@@ -115,3 +115,5 @@ recipes:
     image: /images/uploads/img_0041.jpg
   - image: /images/uploads/img_9178.jpg
     link: https://smittenkitchen.com/2017/04/pistachio-cake/
+  - link: https://www.bonappetit.com/recipe/chicken-saltimbocca-with-crunchy-pea-salad
+    image: /images/uploads/img_0505.jpg
