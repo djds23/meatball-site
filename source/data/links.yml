@@ -121,3 +121,5 @@ recipes:
     image: /images/uploads/img_0528.jpg
   - link: https://cooking.nytimes.com/recipes/1021095-macaroni-salad-with-lemon-and-herbs
     image: /images/uploads/img_0546.jpg
+  - link: https://www.bonappetit.com/recipe/tomato-and-parmesan-risotto
+    image: /images/uploads/img_0558.jpg
