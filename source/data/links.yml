@@ -125,3 +125,5 @@ recipes:
     image: /images/uploads/img_0558.jpg
   - image: /images/uploads/img_0522.jpg
     link: https://www.bonappetit.com/recipe/strawberry-pistachio-crumble-pie
+  - link: https://www.foodnetwork.com/recipes/ina-garten/easy-provencal-lamb-8702954
+    image: /images/uploads/img_0465.jpeg
