@@ -163,3 +163,5 @@ recipes:
     image: /images/uploads/img_1013.jpg
   - link: https://www.bonappetit.com/recipe/chicken-tinga-tostadas
     image: /images/uploads/img_0460.jpg
+  - image: /images/uploads/img_1078.jpg
+    link: https://www.bonappetit.com/recipe/dakgalbi
