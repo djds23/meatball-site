@@ -165,3 +165,5 @@ recipes:
     image: /images/uploads/img_0460.jpg
   - image: /images/uploads/img_1078.jpg
     link: https://www.bonappetit.com/recipe/dakgalbi
+  - link: https://www.bonappetit.com/recipe/manicotti
+    image: /images/uploads/img_1096.jpg
