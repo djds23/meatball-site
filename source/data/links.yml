@@ -1,179 +1,180 @@
-avatar: /images/uploads/avatar.jpg
+---
+avatar: "/images/uploads/avatar.jpg"
 title: Tap the photo for recipes.
 recipes:
-  - image: images/uploads/mint-meatballs.jpg
-    link: https://www.bonappetit.com/recipe/spicy-lamb-meatballs-with-raisin-pesto
-  - image: images/uploads/strawberry-granola-crisp.jpg
-    link: https://www.bonappetit.com/recipe/strawberry-granola-crisp
-  - image: images/uploads/summer-sandwich.jpg
-    link: https://www.bonappetit.com/recipe/big-ass-beach-hoagie
-  - image: images/uploads/no-cook-punttanesca.jpg
-    link: https://www.bonappetit.com/recipe/spaghetti-with-no-cook-puttanesca
-  - image: images/uploads/tomato-tart.jpg
-    link: https://barefootcontessa.com/recipes/annas-tomato-tart
-  - image: images/uploads/cucumber-peach-salad.jpg
-    link: https://www.bonappetit.com/recipe/cucumber-and-peach-salad-with-herbs
-  - image: images/uploads/blueberry-cornmeal-shortbread-tart.jpg
-    link: https://cooking.nytimes.com/recipes/1020390-blueberry-cornmeal-shortbread-tart
-  - image: images/uploads/fish-tacos.jpg
-    link: https://cooking.nytimes.com/recipes/1012445-fish-tacos?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
-  - image: images/uploads/blueberry-gallet.jpg
-    link: https://www.bonappetit.com/recipe/blueberry-pecan-galette
-  - image: images/uploads/chicken-with-limes.jpg
-    link: https://www.bonappetit.com/recipe/slow-roast-gochujang-chicken
-  - image: images/uploads/tomato-pie.jpg
-    link: https://www.saveur.com/southern-tomato-pie-recipe/
-  - image: images/uploads/goat-cheese-and-grapes.jpg
-    link: https://www.bonappetit.com/recipe/spicy-grape-ricotta-crostini
-  - image: images/uploads/chicken-with-grapes.jpg
-    link: https://www.seriouseats.com/recipes/2012/11/smitten-kitchens-harvest-roast-chicken-with-grapes-olives-shallots.html
-  - image: images/uploads/brocolli-salad.jpg
-    link: https://google.com
-  - image: images/uploads/cupcakes.jpg
-    link: https://barefootcontessa.com/recipes/coconut-cupcakes
-  - image: images/uploads/roasted-potatos.jpg
-    link: https://www.bonappetit.com/recipe/perfectly-roasted-potatoes
-  - image: images/uploads/chicken-parm.jpg
-    link: https://www.bonappetit.com/recipe/pietros-chicken-parmesan
-  - image: images/uploads/onion-and-squash-tart.jpg
-    link: https://www.bonappetit.com/recipe/squash-and-caramelized-onion-tart
-  - image: images/uploads/roast-lemon-chicken.jpg
-    link: https://www.alisoneroman.com/nothing-fancy
-  - image: images/uploads/meatballs.jpg
-    link: http://www.shutterbean.com/2017/meatballs-marsala-with-egg-noodles/#more-47668
-  - image: images/uploads/pasta-with-olives.jpg
-    link: https://www.bonappetit.com/recipe/linguine-green-olive-sauce-zesty-breadcrumbs
-  - image: images/uploads/chicken-sandwhich.jpg
-    link: https://www.bonappetit.com/recipe/grilled-chicken-sandwich-with-mustard-mayo
-  - image: images/uploads/breakfast-taco.jpg
-    link: https://www.bonappetit.com/recipe/fried-egg-tacos-with-chile-jam
-  - image: images/uploads/chicken-with-polenta.jpg
-    link: https://cooking.nytimes.com/recipes/1019404-chicken-braised-in-two-vinegars?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
-  - image: images/uploads/hermit-bars.jpg
-    link: https://barefootcontessa.com/recipes/spicy-hermit-bars
-  - image: images/uploads/chicken-with-orzo.jpg
-    link: https://www.bonappetit.com/recipe/one-skillet-chicken-with-buttery-orzo
-  - image: images/uploads/faro-salad.jpg
-    link: https://www.foodnetwork.com/recipes/ina-garten/charlie-birds-farro-salad-6589464
-  - image: images/uploads/delicious-pie.jpg
-    link: https://www.midwestliving.com/recipe/cranberry-crumble-pie/
-  - image: images/uploads/chicken-with-dumplings.jpg
-    link: https://cooking.nytimes.com/recipes/1019108-chicken-and-dumplings
-  - image: images/uploads/roasted-shrimp-cocktail-louis.jpg
-    link: https://barefootcontessa.com/recipes/roasted-shrimp-cocktail-louis
-  - image: images/uploads/rib-roast.jpg
-    link: https://www.bonappetit.com/gallery/alison-roman-steakhouse-night-at-home
-  - image: images/uploads/mint-cookie.jpg
-    link: https://www.bonappetit.com/recipe/black-and-white-and-green-cookies
-  - image: images/uploads/new-years-drink.jpg
-    link: https://www.bonappetit.com/story/french-75
-  - image: images/uploads/chicken-french.jpg
-    link: https://cooking.nytimes.com/recipes/1019577-chicken-francese
-  - image: images/uploads/kale-pesto.jpg
-    link: https://www.bonappetit.com/recipe/kale-pesto-with-whole-wheat-pasta
-  - image: images/uploads/cheesecake.jpg
-    link: https://cooking.nytimes.com/recipes/1020711-citrusy-cheesecake
-  - image: images/uploads/charred-squash-and-shallot-goodness.jpg
-    link: https://www.bonappetit.com/recipe/warm-winter-vegetable-salad-with-halloumi
-  - image: images/uploads/skillet-goodness.jpg
-    link: https://cooking.nytimes.com/recipes/1018360-sauteed-brussels-sprouts-with-sausage-and-pickled-red-onion?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=2
-  - image: images/uploads/citrus-chicken.jpg
-    link: https://www.bonappetit.com/recipe/charred-chicken-with-sweet-potatoes-and-oranges
-  - image: images/uploads/french-onion-soup.jpg
-    link: https://smittenkitchen.com/2019/03/essential-french-onion-soup/
-  - image: images/uploads/pork-noodles.jpg
-    link: https://www.bonappetit.com/recipe/peanut-rice-noodles-with-pork-and-collard-greens
-  - image: /images/uploads/valentines-chocolate-tart.jpg
-    link: https://www.bonappetit.com/recipe/salted-caramel-chocolate-tart
-  - image: /images/uploads/egg-chicken-salad.jpg
-    link: https://www.foodnetwork.com/recipes/ina-garten/chicken-and-spinach-waldorf-salad-3742077
-  - image: /images/uploads/squash-parm-pasta.jpg
-    link: https://www.bonappetit.com/recipe/winter-squash-carbonara-with-pancetta-and-sage
-  - link: https://smittenkitchen.com/2013/10/miso-sweet-potato-and-broccoli-bowl/
-    image: /images/uploads/brocolli-sweetpotato.jpg
-  - image: /images/uploads/miso-chicken.png
-    link: https://cooking.nytimes.com/recipes/1017699-miso-chicken
-  - link: https://www.bonappetit.com/recipe/bas-best-english-muffins
-    image: /images/uploads/english-muffins.jpg
-  - image: /images/uploads/ramen-pesto.jpg
-    link: https://www.bonappetit.com/recipe/miso-pesto-with-ramen-noodles
-  - image: /images/uploads/img_2595.jpg
-    link: https://www.bonappetit.com/recipe/easy-no-knead-focaccia
-  - image: /images/uploads/img_2735.jpg
-    link: https://www.bonappetit.com/recipe/gochujang-ranch-crispy-chicken-bowl
-  - image: /images/uploads/img_0303.jpg
-    link: https://ottolenghi.co.uk/recipes/roasted-chicken-legs-with-dates-olives-and-capers
-  - image: /images/uploads/img_0245.jpg
-    link: https://www.bonappetit.com/recipe/cinnamon-date-sticky-buns
-  - link: https://www.saltfatacidheat.com/buttermilkmarinated-roast-chicken
-    image: /images/uploads/img_0263.jpg
-  - link: https://www.bonappetit.com/recipe/pork-wontons-with-sesame-sauce
-    image: /images/uploads/img_3905.jpg
-  - image: /images/uploads/img_4050.jpg
-    link: https://www.bonappetit.com/recipe/upside-down-caramelized-leek-tart
-  - link: https://www.myrecipes.com/recipe/linguine-sweet-pepper-sauce
-    image: /images/uploads/img_0041.jpg
-  - image: /images/uploads/img_9178.jpg
-    link: https://smittenkitchen.com/2017/04/pistachio-cake/
-  - link: https://www.bonappetit.com/recipe/chicken-saltimbocca-with-crunchy-pea-salad
-    image: /images/uploads/img_0505.jpg
-  - link: https://www.bonappetit.com/recipe/california-veggie-sandwich
-    image: /images/uploads/img_0528.jpg
-  - link: https://cooking.nytimes.com/recipes/1021095-macaroni-salad-with-lemon-and-herbs
-    image: /images/uploads/img_0546.jpg
-  - link: https://www.bonappetit.com/recipe/tomato-and-parmesan-risotto
-    image: /images/uploads/img_0558.jpg
-  - image: /images/uploads/img_0522.jpg
-    link: https://www.bonappetit.com/recipe/strawberry-pistachio-crumble-pie
-  - link: https://www.foodnetwork.com/recipes/ina-garten/easy-provencal-lamb-8702954
-    image: /images/uploads/img_0465.jpeg
-  - link: https://www.bonappetit.com/recipe/pan-seared-scallops-with-chorizo-and-corn
-    image: /images/uploads/img_0686.jpg
-  - link: https://smittenkitchen.com/2007/07/ratatouille-style-ratatouille/
-    image: /images/uploads/img_0680.jpg
-  - link: https://www.bonappetit.com/recipe/cherry-biscuit-cobbler
-    image: /images/uploads/img_0620.jpg
-  - link: https://www.bonappetit.com/recipe/basic-bulgogi
-    image: /images/uploads/img_0497.jpg
-  - link: https://www.bonappetit.com/recipe/one-pan-chicken-thighs-with-burst-tomatoes-harissa-and-feta
-    image: /images/uploads/img_0635.jpg
-  - link: https://smittenkitchen.com/2009/08/tomato-and-corn-pie/
-    image: /images/uploads/img_0630.jpg
-  - link: https://barefootcontessa.com/recipes/roasted-butternut-squash-salad-with-warm-cider-vinaigrette
-    image: /images/uploads/img_0762.jpg
-  - link: https://www.foodnetwork.com/recipes/ina-garten/beef-bourguignon-recipe-1942045
-    image: /images/uploads/img_0817.jpg
-  - link: https://www.theguardian.com/lifeandstyle/2016/sep/25/autumn-main-course-recipes-yotam-ottolenghi-squash-chicken-fish-prawns-duck-beef-pasta
-    image: /images/uploads/img_0835.jpg
-  - link: https://cooking.nytimes.com/recipes/1857-thomas-kellers-butternut-squash-soup-with-brown-butter
-    image: /images/uploads/img_0775.jpg
-  - link: https://www.today.com/recipes/ina-garten-s-creamy-tomato-bisque-recipe-t193306
-    image: /images/uploads/img_0825.jpg
-  - link: https://cooking.nytimes.com/recipes/1020774-creamy-farro-with-crispy-mushrooms-and-sour-cream
-    image: /images/uploads/img_0859.jpg
-  - link: https://www.bonappetit.com/recipe/vegetarian-ramen
-    image: /images/uploads/img_0874.jpg
-  - link: https://www.bonappetit.com/recipe/sweet-and-saucy-pork-chops
-    image: /images/uploads/img_0858.jpg
-  - link: https://www.oxo.com/blog/cooking-and-baking/cranberry-mousse-pie-claire-saffitz/
-    image: /images/uploads/img_0904.jpg
-  - link: https://houseandhome.com/recipe/french-chicken-pot-pies-recipe/
-    image: /images/uploads/img_0980.jpg
-  - link: https://www.foodandwine.com/recipes/brown-butter-cardamom-spitzbuben
-    image: /images/uploads/img_1013.jpg
-  - link: https://www.bonappetit.com/recipe/chicken-tinga-tostadas
-    image: /images/uploads/img_0460.jpg
-  - image: /images/uploads/img_1078.jpg
-    link: https://www.bonappetit.com/recipe/dakgalbi
-  - link: https://www.bonappetit.com/recipe/manicotti
-    image: /images/uploads/img_1096.jpg
-  - link: https://www.bonappetit.com/recipe/french-onion-beef-noodle-soup
-    image: /images/uploads/img_0206.jpg
-  - link: https://www.bonappetit.com/recipe/basically-buffalo-wings
-    image: /images/uploads/img_1119.jpg
-  - link: https://www.bonappetit.com/recipe/weeknight-meatballs
-    image: /images/uploads/img_1101.jpg
-  - link: https://www.bonappetit.com/recipe/grapefruit-poppy-seed-loaf-cake-with-yogurt-glaze
-    image: /images/uploads/img_1111.jpg
-  - link: https://www.theguardian.com/food/2020/sep/12/yotam-ottolenghi-tomato-soup-recipes-cream-of-pasta-gazpacho-roast-aubergine-aioli
-    image: /images/uploads/p2170125.jpg
+- link: https://www.theguardian.com/food/2020/sep/12/yotam-ottolenghi-tomato-soup-recipes-cream-of-pasta-gazpacho-roast-aubergine-aioli
+  image: "/images/uploads/p2170125.jpg"
+- link: https://www.bonappetit.com/recipe/grapefruit-poppy-seed-loaf-cake-with-yogurt-glaze
+  image: "/images/uploads/img_1111.jpg"
+- link: https://www.bonappetit.com/recipe/weeknight-meatballs
+  image: "/images/uploads/img_1101.jpg"
+- link: https://www.bonappetit.com/recipe/basically-buffalo-wings
+  image: "/images/uploads/img_1119.jpg"
+- link: https://www.bonappetit.com/recipe/french-onion-beef-noodle-soup
+  image: "/images/uploads/img_0206.jpg"
+- link: https://www.bonappetit.com/recipe/manicotti
+  image: "/images/uploads/img_1096.jpg"
+- image: "/images/uploads/img_1078.jpg"
+  link: https://www.bonappetit.com/recipe/dakgalbi
+- link: https://www.bonappetit.com/recipe/chicken-tinga-tostadas
+  image: "/images/uploads/img_0460.jpg"
+- link: https://www.foodandwine.com/recipes/brown-butter-cardamom-spitzbuben
+  image: "/images/uploads/img_1013.jpg"
+- link: https://houseandhome.com/recipe/french-chicken-pot-pies-recipe/
+  image: "/images/uploads/img_0980.jpg"
+- link: https://www.oxo.com/blog/cooking-and-baking/cranberry-mousse-pie-claire-saffitz/
+  image: "/images/uploads/img_0904.jpg"
+- link: https://www.bonappetit.com/recipe/sweet-and-saucy-pork-chops
+  image: "/images/uploads/img_0858.jpg"
+- link: https://www.bonappetit.com/recipe/vegetarian-ramen
+  image: "/images/uploads/img_0874.jpg"
+- link: https://cooking.nytimes.com/recipes/1020774-creamy-farro-with-crispy-mushrooms-and-sour-cream
+  image: "/images/uploads/img_0859.jpg"
+- link: https://www.today.com/recipes/ina-garten-s-creamy-tomato-bisque-recipe-t193306
+  image: "/images/uploads/img_0825.jpg"
+- link: https://cooking.nytimes.com/recipes/1857-thomas-kellers-butternut-squash-soup-with-brown-butter
+  image: "/images/uploads/img_0775.jpg"
+- link: https://www.theguardian.com/lifeandstyle/2016/sep/25/autumn-main-course-recipes-yotam-ottolenghi-squash-chicken-fish-prawns-duck-beef-pasta
+  image: "/images/uploads/img_0835.jpg"
+- link: https://www.foodnetwork.com/recipes/ina-garten/beef-bourguignon-recipe-1942045
+  image: "/images/uploads/img_0817.jpg"
+- link: https://barefootcontessa.com/recipes/roasted-butternut-squash-salad-with-warm-cider-vinaigrette
+  image: "/images/uploads/img_0762.jpg"
+- link: https://smittenkitchen.com/2009/08/tomato-and-corn-pie/
+  image: "/images/uploads/img_0630.jpg"
+- link: https://www.bonappetit.com/recipe/one-pan-chicken-thighs-with-burst-tomatoes-harissa-and-feta
+  image: "/images/uploads/img_0635.jpg"
+- link: https://www.bonappetit.com/recipe/basic-bulgogi
+  image: "/images/uploads/img_0497.jpg"
+- link: https://www.bonappetit.com/recipe/cherry-biscuit-cobbler
+  image: "/images/uploads/img_0620.jpg"
+- link: https://smittenkitchen.com/2007/07/ratatouille-style-ratatouille/
+  image: "/images/uploads/img_0680.jpg"
+- link: https://www.bonappetit.com/recipe/pan-seared-scallops-with-chorizo-and-corn
+  image: "/images/uploads/img_0686.jpg"
+- link: https://www.foodnetwork.com/recipes/ina-garten/easy-provencal-lamb-8702954
+  image: "/images/uploads/img_0465.jpeg"
+- image: "/images/uploads/img_0522.jpg"
+  link: https://www.bonappetit.com/recipe/strawberry-pistachio-crumble-pie
+- link: https://www.bonappetit.com/recipe/tomato-and-parmesan-risotto
+  image: "/images/uploads/img_0558.jpg"
+- link: https://cooking.nytimes.com/recipes/1021095-macaroni-salad-with-lemon-and-herbs
+  image: "/images/uploads/img_0546.jpg"
+- link: https://www.bonappetit.com/recipe/california-veggie-sandwich
+  image: "/images/uploads/img_0528.jpg"
+- link: https://www.bonappetit.com/recipe/chicken-saltimbocca-with-crunchy-pea-salad
+  image: "/images/uploads/img_0505.jpg"
+- image: "/images/uploads/img_9178.jpg"
+  link: https://smittenkitchen.com/2017/04/pistachio-cake/
+- link: https://www.myrecipes.com/recipe/linguine-sweet-pepper-sauce
+  image: "/images/uploads/img_0041.jpg"
+- image: "/images/uploads/img_4050.jpg"
+  link: https://www.bonappetit.com/recipe/upside-down-caramelized-leek-tart
+- link: https://www.bonappetit.com/recipe/pork-wontons-with-sesame-sauce
+  image: "/images/uploads/img_3905.jpg"
+- link: https://www.saltfatacidheat.com/buttermilkmarinated-roast-chicken
+  image: "/images/uploads/img_0263.jpg"
+- image: "/images/uploads/img_0245.jpg"
+  link: https://www.bonappetit.com/recipe/cinnamon-date-sticky-buns
+- image: "/images/uploads/img_0303.jpg"
+  link: https://ottolenghi.co.uk/recipes/roasted-chicken-legs-with-dates-olives-and-capers
+- image: "/images/uploads/img_2735.jpg"
+  link: https://www.bonappetit.com/recipe/gochujang-ranch-crispy-chicken-bowl
+- image: "/images/uploads/img_2595.jpg"
+  link: https://www.bonappetit.com/recipe/easy-no-knead-focaccia
+- image: "/images/uploads/ramen-pesto.jpg"
+  link: https://www.bonappetit.com/recipe/miso-pesto-with-ramen-noodles
+- link: https://www.bonappetit.com/recipe/bas-best-english-muffins
+  image: "/images/uploads/english-muffins.jpg"
+- image: "/images/uploads/miso-chicken.png"
+  link: https://cooking.nytimes.com/recipes/1017699-miso-chicken
+- link: https://smittenkitchen.com/2013/10/miso-sweet-potato-and-broccoli-bowl/
+  image: "/images/uploads/brocolli-sweetpotato.jpg"
+- image: "/images/uploads/squash-parm-pasta.jpg"
+  link: https://www.bonappetit.com/recipe/winter-squash-carbonara-with-pancetta-and-sage
+- image: "/images/uploads/egg-chicken-salad.jpg"
+  link: https://www.foodnetwork.com/recipes/ina-garten/chicken-and-spinach-waldorf-salad-3742077
+- image: "/images/uploads/valentines-chocolate-tart.jpg"
+  link: https://www.bonappetit.com/recipe/salted-caramel-chocolate-tart
+- image: images/uploads/pork-noodles.jpg
+  link: https://www.bonappetit.com/recipe/peanut-rice-noodles-with-pork-and-collard-greens
+- image: images/uploads/french-onion-soup.jpg
+  link: https://smittenkitchen.com/2019/03/essential-french-onion-soup/
+- image: images/uploads/citrus-chicken.jpg
+  link: https://www.bonappetit.com/recipe/charred-chicken-with-sweet-potatoes-and-oranges
+- image: images/uploads/skillet-goodness.jpg
+  link: https://cooking.nytimes.com/recipes/1018360-sauteed-brussels-sprouts-with-sausage-and-pickled-red-onion?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=2
+- image: images/uploads/charred-squash-and-shallot-goodness.jpg
+  link: https://www.bonappetit.com/recipe/warm-winter-vegetable-salad-with-halloumi
+- image: images/uploads/cheesecake.jpg
+  link: https://cooking.nytimes.com/recipes/1020711-citrusy-cheesecake
+- image: images/uploads/kale-pesto.jpg
+  link: https://www.bonappetit.com/recipe/kale-pesto-with-whole-wheat-pasta
+- image: images/uploads/chicken-french.jpg
+  link: https://cooking.nytimes.com/recipes/1019577-chicken-francese
+- image: images/uploads/new-years-drink.jpg
+  link: https://www.bonappetit.com/story/french-75
+- image: images/uploads/mint-cookie.jpg
+  link: https://www.bonappetit.com/recipe/black-and-white-and-green-cookies
+- image: images/uploads/rib-roast.jpg
+  link: https://www.bonappetit.com/gallery/alison-roman-steakhouse-night-at-home
+- image: images/uploads/roasted-shrimp-cocktail-louis.jpg
+  link: https://barefootcontessa.com/recipes/roasted-shrimp-cocktail-louis
+- image: images/uploads/chicken-with-dumplings.jpg
+  link: https://cooking.nytimes.com/recipes/1019108-chicken-and-dumplings
+- image: images/uploads/delicious-pie.jpg
+  link: https://www.midwestliving.com/recipe/cranberry-crumble-pie/
+- image: images/uploads/faro-salad.jpg
+  link: https://www.foodnetwork.com/recipes/ina-garten/charlie-birds-farro-salad-6589464
+- image: images/uploads/chicken-with-orzo.jpg
+  link: https://www.bonappetit.com/recipe/one-skillet-chicken-with-buttery-orzo
+- image: images/uploads/hermit-bars.jpg
+  link: https://barefootcontessa.com/recipes/spicy-hermit-bars
+- image: images/uploads/chicken-with-polenta.jpg
+  link: https://cooking.nytimes.com/recipes/1019404-chicken-braised-in-two-vinegars?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
+- image: images/uploads/breakfast-taco.jpg
+  link: https://www.bonappetit.com/recipe/fried-egg-tacos-with-chile-jam
+- image: images/uploads/chicken-sandwhich.jpg
+  link: https://www.bonappetit.com/recipe/grilled-chicken-sandwich-with-mustard-mayo
+- image: images/uploads/pasta-with-olives.jpg
+  link: https://www.bonappetit.com/recipe/linguine-green-olive-sauce-zesty-breadcrumbs
+- image: images/uploads/meatballs.jpg
+  link: http://www.shutterbean.com/2017/meatballs-marsala-with-egg-noodles/#more-47668
+- image: images/uploads/roast-lemon-chicken.jpg
+  link: https://www.alisoneroman.com/nothing-fancy
+- image: images/uploads/onion-and-squash-tart.jpg
+  link: https://www.bonappetit.com/recipe/squash-and-caramelized-onion-tart
+- image: images/uploads/chicken-parm.jpg
+  link: https://www.bonappetit.com/recipe/pietros-chicken-parmesan
+- image: images/uploads/roasted-potatos.jpg
+  link: https://www.bonappetit.com/recipe/perfectly-roasted-potatoes
+- image: images/uploads/cupcakes.jpg
+  link: https://barefootcontessa.com/recipes/coconut-cupcakes
+- image: images/uploads/brocolli-salad.jpg
+  link: https://google.com
+- image: images/uploads/chicken-with-grapes.jpg
+  link: https://www.seriouseats.com/recipes/2012/11/smitten-kitchens-harvest-roast-chicken-with-grapes-olives-shallots.html
+- image: images/uploads/goat-cheese-and-grapes.jpg
+  link: https://www.bonappetit.com/recipe/spicy-grape-ricotta-crostini
+- image: images/uploads/tomato-pie.jpg
+  link: https://www.saveur.com/southern-tomato-pie-recipe/
+- image: images/uploads/chicken-with-limes.jpg
+  link: https://www.bonappetit.com/recipe/slow-roast-gochujang-chicken
+- image: images/uploads/blueberry-gallet.jpg
+  link: https://www.bonappetit.com/recipe/blueberry-pecan-galette
+- image: images/uploads/fish-tacos.jpg
+  link: https://cooking.nytimes.com/recipes/1012445-fish-tacos?action=click&module=Global%20Search%20Recipe%20Card&pgType=search&rank=1
+- image: images/uploads/blueberry-cornmeal-shortbread-tart.jpg
+  link: https://cooking.nytimes.com/recipes/1020390-blueberry-cornmeal-shortbread-tart
+- image: images/uploads/cucumber-peach-salad.jpg
+  link: https://www.bonappetit.com/recipe/cucumber-and-peach-salad-with-herbs
+- image: images/uploads/tomato-tart.jpg
+  link: https://barefootcontessa.com/recipes/annas-tomato-tart
+- image: images/uploads/no-cook-punttanesca.jpg
+  link: https://www.bonappetit.com/recipe/spaghetti-with-no-cook-puttanesca
+- image: images/uploads/summer-sandwich.jpg
+  link: https://www.bonappetit.com/recipe/big-ass-beach-hoagie
+- image: images/uploads/strawberry-granola-crisp.jpg
+  link: https://www.bonappetit.com/recipe/strawberry-granola-crisp
+- image: images/uploads/mint-meatballs.jpg
+  link: https://www.bonappetit.com/recipe/spicy-lamb-meatballs-with-raisin-pesto

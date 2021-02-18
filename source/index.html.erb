@@ -6,7 +6,7 @@ title: 🔗 for Meatball Diaries
   <% if !data.links.recipes.nil? %>
     <p class="sub-header"><%= data.links.title %></p>
     <div id="flex-container">
-    <% data.links.recipes.reverse.each do |recipieAndLink| %>
+    <% data.links.recipes.each do |recipieAndLink| %>
       <div class="post">
         <a href="<%= recipieAndLink.link %>">
           <img class="post-image" decoding="async" loading="lazy" src="https://ik.imagekit.io/ratfuufta4/<%= recipieAndLink.image %>">
