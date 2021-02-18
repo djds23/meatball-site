@@ -24,6 +24,7 @@ collections:
             name: "recipes"
             widget: "list"
             allow_add: true
+            add_to_top: true
             collapsed: false
             fields:
               - {label: Link, name: link, widget: string}
