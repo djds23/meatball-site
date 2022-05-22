@@ -23,7 +23,6 @@ collections:
           - label: "Recipes"
             name: "recipes"
             widget: "list"
-            allow_add: true
             collapsed: false
             add_to_top: true
             fields:
