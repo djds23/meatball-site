@@ -1,6 +1,16 @@
 avatar: /images/uploads/avatar.jpg
 title: Tap the photo for recipes.
 recipes:
+  - link: https://www.bonappetit.com/recipe/big-queer-cold-noodles
+    image: /images/uploads/68c7717e-59e4-486b-8268-872f7decc877_1_201_a.jpeg
+  - link: https://food52.com/recipes/77306-jalapeno-marinated-chicken-tacos-with-watermelon-salsa
+    image: /images/uploads/560a8eed-07b8-44e1-9e4b-b2f03974fc25_1_105_c.jpeg
+  - link: https://www.danpelosi.com/post/mediterranean-pasta-salad-with-fried-halloumi
+    image: /images/uploads/a16b8083-de02-4251-942a-66b1e9e64b94_1_105_c.jpeg
+  - link: https://www.bonappetit.com/recipe/grilled-leeks-with-brown-butter-and-spiced-hazelnuts
+    image: /images/uploads/91121327-ef68-4b81-8a63-2c37c0969eee_1_105_c.jpeg
+  - image: /images/uploads/ee2ed6d5-811e-4754-a310-2c1fb31bfb6e_1_201_a.jpeg
+    link: https://cooking.nytimes.com/recipes/1020690-spicy-and-saucy-cherry-tomato-pasta
   - image: /images/uploads/4d00be55-e82b-4d09-91fe-bc5e770c653c_1_105_c.jpeg
     link: https://food52.com/recipes/87800-strawberry-rhubarb-icebox-cake-recipe
   - image: /images/uploads/6736adf7-7a85-46e6-89ca-4024c2d0c7dd_1_105_c.jpeg
